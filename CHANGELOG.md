@@ -1,5 +1,19 @@
 # Changelog
 
+## [4.21.0](https://github.com/mvanhorn/cli-printing-press/compare/v4.20.1...v4.21.0) (2026-06-04)
+
+
+### Features
+
+* **catalog:** add Plane project-management catalog entry ([#2598](https://github.com/mvanhorn/cli-printing-press/issues/2598)) ([91245f6](https://github.com/mvanhorn/cli-printing-press/commit/91245f67e1cde1c0f319e8d552f4b2fc81524216))
+
+
+### Bug Fixes
+
+* **ci:** bump Go to 1.26.4 to clear GO-2026-5037 / GO-2026-5039 stdlib advisories ([#2612](https://github.com/mvanhorn/cli-printing-press/issues/2612)) ([a4fcff7](https://github.com/mvanhorn/cli-printing-press/commit/a4fcff797bb914fea6e9fd3d8608f0bc661b28f5))
+* **cli:** bump emitted go directive to 1.26.4 ([#2627](https://github.com/mvanhorn/cli-printing-press/issues/2627)) ([a21d796](https://github.com/mvanhorn/cli-printing-press/commit/a21d7969f2decf0efe47cd54cd6099087fe3d56f))
+* **cli:** emit GraphQL-aware import for GraphQL specs, not REST POST ([#2618](https://github.com/mvanhorn/cli-printing-press/issues/2618)) ([7ba6fb0](https://github.com/mvanhorn/cli-printing-press/commit/7ba6fb0af5abd25f445c22b1da5f56476c3c029f))
+
 ## [4.20.1](https://github.com/mvanhorn/cli-printing-press/compare/v4.20.0...v4.20.1) (2026-06-01)
 
 
